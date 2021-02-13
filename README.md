@@ -1,5 +1,7 @@
 # security-resources
-React UI for security things
+Web interface for security-based resources
+
+![CodeQL](https://github.com/VetSec/security-resources/workflows/CodeQL/badge.svg?branch=main)
 
 # Getting Started with Create React App
 
